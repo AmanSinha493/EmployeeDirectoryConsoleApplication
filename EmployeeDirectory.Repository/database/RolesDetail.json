@@ -1,0 +1,58 @@
+[
+  {
+    "Id": "R001",
+    "Name": "Full Stack Developer",
+    "Location": "Hyderabad",
+    "Department": "Product Engg",
+    "Description": null
+  },
+  {
+    "Id": "R002",
+    "Name": "Customer Service Manager",
+    "Location": "Bangalore",
+    "Department": "Product Engg",
+    "Description": null
+  },
+  {
+    "Id": "R003",
+    "Name": "Human Resource Manager",
+    "Location": "Bangalore",
+    "Department": "QA",
+    "Description": null
+  },
+  {
+    "Id": "R004",
+    "Name": "UI/UX",
+    "Location": "Bangalore",
+    "Department": "QA",
+    "Description": null
+  },
+  {
+    "Id": "R005",
+    "Name": "Senior Developer",
+    "Location": "Bangalore",
+    "Department": "Product Engg",
+    "Description": null
+  },
+  {
+    "Id": "R006",
+    "Name": "Aman",
+    "Location": "Hyderabad",
+    "Department": "new",
+    "Description": null
+  },
+  {
+    "Id": "R007",
+    "Name": "Ninja",
+    "Location": "HYD",
+    "Department": "new",
+    "Description": null
+  },
+  {
+    "Id": "R008",
+    "Name": "Aman",
+    "Location": "HYD",
+    "Department": "new",
+    "Description": null
+  }
+]
